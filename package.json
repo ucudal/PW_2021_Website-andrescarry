@@ -1,0 +1,19 @@
+{
+  "name": "pw_2021_website-andrescarry",
+  "version": "1.0.0",
+  "description": "Proyecto Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://andrescarry: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@github.com/ucudal/PW_2021_Website-andrescarry.git"
+  },
+  "author": "Andres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ucudal/PW_2021_Website-andrescarry/issues"
+  },
+  "homepage": "https://github.com/ucudal/PW_2021_Website-andrescarry#readme"
+}
