@@ -1,0 +1,28 @@
+.mainDiv{
+    display: flex;
+}
+
+
+.whiteLetter{
+    color: white;
+}
+
+.tablePadding{
+    padding-bottom: 0%;
+    border-spacing: 0px;
+    border-collapse: initial;
+}
+
+.imageStyle{
+    display: table;
+    margin: auto;
+    margin-top: 2%;
+}
+
+.img{
+    border-radius: 50%;
+}
+
+table {
+    width: 100%;
+  }

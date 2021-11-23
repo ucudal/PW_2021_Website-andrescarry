@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ucudal/PW_2021_Website-andrescarry/issues"
   },
-  "homepage": "https://github.com/ucudal/PW_2021_Website-andrescarry#readme"
+  "homepage": "https://github.com/ucudal/PW_2021_Website-andrescarry#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.11"
+  }
 }
