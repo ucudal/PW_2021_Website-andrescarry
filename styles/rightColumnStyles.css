@@ -1,0 +1,57 @@
+.rightColumn{
+    width: 72%;
+}
+
+.rightColumnTitle{
+    color: black; 
+    margin-left: 5%; 
+    padding: 0%;
+    border: 0%;
+    margin-bottom: 0%;
+}
+
+.rightColumnValue{
+    color: black; 
+    opacity: 0.7;
+    margin-left: 5%;
+    padding: 0%;
+    border: 0%;
+    margin-top: 0%;
+}
+
+hr.roundedRight{
+    border-top: 2px solid rgb(66, 66, 66);
+    border-radius: 5px;
+    width: 90%;
+}
+
+.firstDivRightColumn{
+    margin-top: 2%;
+}
+
+.nameTitle{
+    font-size: xx-large;
+    font-weight: 900; 
+    font-family: -webkit-pictograph; 
+}
+
+.jobName{
+    font-size: large;
+    font-weight: 500; 
+    font-family: -webkit-pictograph; 
+}
+
+.sectionMargin{
+    margin-left: 3%;
+}
+
+.tituloExperiencia{
+    font-weight: 500;
+    font-size: large;
+}
+
+.experiencias{
+    color: rgb(57, 123, 161);
+    font-weight: 500;
+    font-size: x-large;
+}
